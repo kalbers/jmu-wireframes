@@ -31,7 +31,7 @@
 <div class="large-3 cell">
     <a href="body-region-full.php"><img src="http://placehold.it/300x300?text=BODY+IMAGE" alt=""></a>
 
-    <h4>Body Region</h4>
+    <h4 class="top">Body Region</h4>
     <a href="body-region.php">Body Region</a>
 
     <h4>Citation</h4>

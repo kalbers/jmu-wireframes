@@ -9,7 +9,10 @@
     <div class="large-2 cell">
         <img src="http://placehold.it/500x150?text=PA+LOGO" alt="">
     </div>
-    <div class="large-6 large-offset-2 cell">
+    <div class="large-2 cell">
+        <img src="http://placehold.it/500x150?text=JMU+LOGO" alt="">
+    </div>
+    <div class="large-6 cell">
         <p>Some copyright text. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis repudiandae accusamus similique. Quod.</p>
     </div>
 </div>
